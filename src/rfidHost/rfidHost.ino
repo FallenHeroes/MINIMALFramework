@@ -3,4 +3,4 @@
 #include <MFRC522.h>
  
 #define RST_PIN 5 
-#define SS_P
+#define SS_PIN 53
