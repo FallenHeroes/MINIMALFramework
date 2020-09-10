@@ -5,4 +5,4 @@
 #define RST_PIN 5 
 #define SS_PIN 53
 
-MFRC522 
+MFRC522 mfrc5
