@@ -7,4 +7,4 @@
 
 MFRC522 mfrc522(SS_PIN, RST_PIN);   // Create MFRC522 instance.
  
-void s
+void setup() 
