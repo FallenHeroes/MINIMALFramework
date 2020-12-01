@@ -14,4 +14,4 @@ void setup()
   mfrc522.PCD_Init();   // Initiate MFRC522
   Serial.println("Approximate your card to the reader...");
   Serial.println();
-  // Serial.p
+  // Serial.print
