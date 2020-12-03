@@ -15,4 +15,4 @@ void setup()
   Serial.println("Approximate your card to the reader...");
   Serial.println();
   // Serial.println("Writing it");
-  // writeMacAddressIn
+  // writeMacAddressIntoTag(
