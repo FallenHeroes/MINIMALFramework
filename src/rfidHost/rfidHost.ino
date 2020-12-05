@@ -16,4 +16,4 @@ void setup()
   Serial.println();
   // Serial.println("Writing it");
   // writeMacAddressIntoTag("");
-  // Seria
+  // Serial.p
