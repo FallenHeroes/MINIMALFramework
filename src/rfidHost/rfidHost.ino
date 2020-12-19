@@ -21,4 +21,4 @@ void setup()
 }
 void loop() 
 {
-  Serial.println(readMac
+  Serial.println(readMacAddr
