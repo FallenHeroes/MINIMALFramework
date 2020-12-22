@@ -22,4 +22,4 @@ void setup()
 void loop() 
 {
   Serial.println(readMacAddressFromTag());
-  // Serial.println("N
+  // Serial.println("Nein");
