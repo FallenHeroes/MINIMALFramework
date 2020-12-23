@@ -23,4 +23,4 @@ void loop()
 {
   Serial.println(readMacAddressFromTag());
   // Serial.println("Nein");
-  delay(700)
+  delay(700);
