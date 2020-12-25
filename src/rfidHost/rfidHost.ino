@@ -25,4 +25,4 @@ void loop()
   // Serial.println("Nein");
   delay(700);
 
-  mfr
+  mfrc522
