@@ -25,4 +25,4 @@ void loop()
   // Serial.println("Nein");
   delay(700);
 
-  mfrc522.PICC_HaltA(); // Ha
+  mfrc522.PICC_HaltA(); // Halt PICC
