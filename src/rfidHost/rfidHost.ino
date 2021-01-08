@@ -26,4 +26,4 @@ void loop()
   delay(700);
 
   mfrc522.PICC_HaltA(); // Halt PICC
-  mfrc522.PCD_StopCrypto1();  // S
+  mfrc522.PCD_StopCrypto1();  // Stop 
