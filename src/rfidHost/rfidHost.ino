@@ -32,4 +32,4 @@ void loop()
 String readMacAddressFromTag()
 {
 
-  MFRC522::MIFARE
+  MFRC522::MIFARE_Ke
