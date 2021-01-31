@@ -33,4 +33,4 @@ String readMacAddressFromTag()
 {
 
   MFRC522::MIFARE_Key key;
-  for (byte i = 0
+  for (byte i = 0; i <
