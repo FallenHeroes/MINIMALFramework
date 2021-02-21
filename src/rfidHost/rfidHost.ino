@@ -37,4 +37,5 @@ String readMacAddressFromTag()
 
 
   byte block = 4;
-  byte contentLength = 1
+  byte contentLength = 18*2;
+  
