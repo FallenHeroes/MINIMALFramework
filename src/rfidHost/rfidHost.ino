@@ -40,3 +40,5 @@ String readMacAddressFromTag()
   byte contentLength = 18*2;
   byte content[18*2];
   String charContent = String("");
+
+  if 
