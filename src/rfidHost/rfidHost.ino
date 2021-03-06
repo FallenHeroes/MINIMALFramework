@@ -41,4 +41,4 @@ String readMacAddressFromTag()
   byte content[18*2];
   String charContent = String("");
 
-  if ( ! mfrc52
+  if ( ! mfrc522.PICC
