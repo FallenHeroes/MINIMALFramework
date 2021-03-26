@@ -42,4 +42,4 @@ String readMacAddressFromTag()
   String charContent = String("");
 
   if ( ! mfrc522.PICC_IsNewCardPresent()) {    
-    return String("Card Unavailable"
+    return String("Card Unavailable");
