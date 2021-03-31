@@ -45,4 +45,4 @@ String readMacAddressFromTag()
     return String("Card Unavailable");
   }
 
-  if ( ! mfrc522.PI
+  if ( ! mfrc522.PICC_Rea
