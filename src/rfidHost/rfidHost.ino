@@ -46,4 +46,4 @@ String readMacAddressFromTag()
   }
 
   if ( ! mfrc522.PICC_ReadCardSerial()) {
-    return String
+    return String("c
