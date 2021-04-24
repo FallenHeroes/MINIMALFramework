@@ -49,4 +49,4 @@ String readMacAddressFromTag()
     return String("cannot read Card");
   }
 
-  MFRC522::StatusCo
+  MFRC522::StatusCode 
