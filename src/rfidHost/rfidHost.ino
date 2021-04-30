@@ -51,4 +51,4 @@ String readMacAddressFromTag()
 
   MFRC522::StatusCode status;
   
-  status = mfrc
+  status = mfrc52
