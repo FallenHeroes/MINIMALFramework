@@ -51,4 +51,4 @@ String readMacAddressFromTag()
 
   MFRC522::StatusCode status;
   
-  status = mfrc522.PCD_Authe
+  status = mfrc522.PCD_Authenticat
