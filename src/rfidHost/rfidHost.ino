@@ -58,4 +58,4 @@ String readMacAddressFromTag()
     return String("PCD_Authenticate() failed");
   }
 
-  status 
+  status = 
