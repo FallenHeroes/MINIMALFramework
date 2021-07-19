@@ -58,4 +58,4 @@ String readMacAddressFromTag()
     return String("PCD_Authenticate() failed");
   }
 
-  status = mfrc522.MIFARE_Read(block, content, &contentLe
+  status = mfrc522.MIFARE_Read(block, content, &contentLength);
