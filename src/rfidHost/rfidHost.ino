@@ -59,4 +59,4 @@ String readMacAddressFromTag()
   }
 
   status = mfrc522.MIFARE_Read(block, content, &contentLength);
-  if (status != MFRC522::S
+  if (status != MFRC522::STATUS_O
