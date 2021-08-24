@@ -62,4 +62,6 @@ String readMacAddressFromTag()
   if (status != MFRC522::STATUS_OK) {
     Serial.println(mfrc522.GetStatusCodeName(status));
     return String("Cound not read");
+  }
   
+	//
