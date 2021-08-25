@@ -64,4 +64,4 @@ String readMacAddressFromTag()
     return String("Cound not read");
   }
   
-	// mfrc522
+	// mfrc522.P
