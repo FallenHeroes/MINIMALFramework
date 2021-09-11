@@ -66,4 +66,6 @@ String readMacAddressFromTag()
   
 	// mfrc522.PICC_DumpToSerial(&(mfrc522.uid));
 
-  for(int ii=0; ii<18*2; ii+
+  for(int ii=0; ii<18*2; ii++)
+  {
+  
