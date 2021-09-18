@@ -69,3 +69,4 @@ String readMacAddressFromTag()
   for(int ii=0; ii<18*2; ii++)
   {
     charContent+= (char)content[ii];
+    /
