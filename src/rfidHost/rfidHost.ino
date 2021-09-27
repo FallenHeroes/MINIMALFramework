@@ -70,4 +70,5 @@ String readMacAddressFromTag()
   {
     charContent+= (char)content[ii];
     // Serial.write(content[ii]);
-  
+  }
+
