@@ -73,4 +73,4 @@ String readMacAddressFromTag()
   }
 
 
-  mfrc522.PICC_H
+  mfrc522.PICC_HaltA()
