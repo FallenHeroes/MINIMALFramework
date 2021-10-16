@@ -74,4 +74,4 @@ String readMacAddressFromTag()
 
 
   mfrc522.PICC_HaltA();
-  mfrc522.P
+  mfrc522.PCD_St
