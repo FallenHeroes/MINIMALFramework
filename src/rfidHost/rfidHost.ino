@@ -78,3 +78,5 @@ String readMacAddressFromTag()
 
   return charContent;
 }
+
+voi
