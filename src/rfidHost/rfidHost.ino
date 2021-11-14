@@ -79,4 +79,4 @@ String readMacAddressFromTag()
   return charContent;
 }
 
-void wr
+void writeMac
