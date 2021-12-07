@@ -81,4 +81,4 @@ String readMacAddressFromTag()
 
 void writeMacAddressIntoTag(String macAddress)
 {
-  M
+  MFRC52
