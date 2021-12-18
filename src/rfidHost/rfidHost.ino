@@ -82,4 +82,4 @@ String readMacAddressFromTag()
 void writeMacAddressIntoTag(String macAddress)
 {
   MFRC522::MIFARE_Key key;
-  for (byte
+  for (byte i = 0;
