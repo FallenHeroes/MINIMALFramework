@@ -84,4 +84,6 @@ void writeMacAddressIntoTag(String macAddress)
   MFRC522::MIFARE_Key key;
   for (byte i = 0; i < 6; i++) key.keyByte[i] = 0xFF;
   // 123456789012
-  // 0macaddress
+  // 0macaddress0
+
+  cha
