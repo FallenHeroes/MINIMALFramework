@@ -86,4 +86,4 @@ void writeMacAddressIntoTag(String macAddress)
   // 123456789012
   // 0macaddress0
 
-  char* content =
+  char* content = "0ma
