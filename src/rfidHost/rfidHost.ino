@@ -87,4 +87,5 @@ void writeMacAddressIntoTag(String macAddress)
   // 0macaddress0
 
   char* content = "0macaddress0";
-  byte buffer[18]
+  byte buffer[18] ;
+ 
