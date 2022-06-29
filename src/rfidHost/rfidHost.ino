@@ -94,4 +94,4 @@ void writeMacAddressIntoTag(String macAddress)
 
   for(int ii = 0; ii<18; ii++)
   {
-    buf
+    buffer[ii
