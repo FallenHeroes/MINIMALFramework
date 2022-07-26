@@ -96,3 +96,4 @@ void writeMacAddressIntoTag(String macAddress)
   {
     buffer[ii] = (byte)content[ii];
   Serial.write(buffer[ii]);
+  }
