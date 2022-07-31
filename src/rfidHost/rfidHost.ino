@@ -99,4 +99,4 @@ void writeMacAddressIntoTag(String macAddress)
   }
 
 
-  while ( ! mfrc522.PICC_IsNe
+  while ( ! mfrc522.PICC_IsNewCard
