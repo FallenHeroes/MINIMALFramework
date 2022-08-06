@@ -103,4 +103,4 @@ void writeMacAddressIntoTag(String macAddress)
     // return;
   }
 
-  if
+  if ( ! mf
