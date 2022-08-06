@@ -103,4 +103,4 @@ void writeMacAddressIntoTag(String macAddress)
     // return;
   }
 
-  if ( ! mf
+  if ( ! mfrc522.P
