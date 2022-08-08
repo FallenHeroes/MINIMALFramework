@@ -103,4 +103,5 @@ void writeMacAddressIntoTag(String macAddress)
     // return;
   }
 
-  if ( ! mfrc522.PICC_ReadCardSerial()) 
+  if ( ! mfrc522.PICC_ReadCardSerial()) {
+   
