@@ -108,4 +108,4 @@ void writeMacAddressIntoTag(String macAddress)
   }
 
 
-  status = mfr
+  status = mfrc522.P
