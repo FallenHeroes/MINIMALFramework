@@ -108,4 +108,4 @@ void writeMacAddressIntoTag(String macAddress)
   }
 
 
-  status = mfrc522.PCD_Authen
+  status = mfrc522.PCD_Authentic
