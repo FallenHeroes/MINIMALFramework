@@ -112,3 +112,4 @@ void writeMacAddressIntoTag(String macAddress)
   if (status != MFRC522::STATUS_OK) {
     Serial.print(F("PCD_Authenticate() failed: "));
     Serial.println(mfrc522.GetStatusCodeName(status));
+   
