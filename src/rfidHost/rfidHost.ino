@@ -114,4 +114,4 @@ void writeMacAddressIntoTag(String macAddress)
     Serial.println(mfrc522.GetStatusCodeName(status));
     return;
   }
-  else Serial.println(F("PCD_Auth
+  else Serial.println(F("PCD_Authenti
