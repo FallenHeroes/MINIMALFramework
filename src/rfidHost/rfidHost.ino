@@ -117,4 +117,4 @@ void writeMacAddressIntoTag(String macAddress)
   else Serial.println(F("PCD_Authenticate() success: "));
 
   // Write block
-  status = mfrc522.MIFARE_Write(bloc
+  status = mfrc522.MIFARE_Write(block, b
