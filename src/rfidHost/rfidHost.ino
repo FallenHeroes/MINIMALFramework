@@ -118,4 +118,4 @@ void writeMacAddressIntoTag(String macAddress)
 
   // Write block
   status = mfrc522.MIFARE_Write(block, buffer, 16);
-  if (status != MFRC522::STATU
+  if (status != MFRC522::STATUS_OK) {
