@@ -120,4 +120,4 @@ void writeMacAddressIntoTag(String macAddress)
   status = mfrc522.MIFARE_Write(block, buffer, 16);
   if (status != MFRC522::STATUS_OK) {
     Serial.print(F("MIFARE_Write() failed: "));
-    S
+    Ser
