@@ -122,3 +122,4 @@ void writeMacAddressIntoTag(String macAddress)
     Serial.print(F("MIFARE_Write() failed: "));
     Serial.println(mfrc522.GetStatusCodeName(status));
     return;
+  }
