@@ -124,4 +124,4 @@ void writeMacAddressIntoTag(String macAddress)
     return;
   }
 
-  mfrc522.
+  mfrc522.PICC
