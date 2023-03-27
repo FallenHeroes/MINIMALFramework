@@ -124,4 +124,4 @@ void writeMacAddressIntoTag(String macAddress)
     return;
   }
 
-  mfrc522.PICC_Hal
+  mfrc522.PICC_HaltA()
