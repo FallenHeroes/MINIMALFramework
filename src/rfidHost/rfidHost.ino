@@ -125,4 +125,4 @@ void writeMacAddressIntoTag(String macAddress)
   }
 
   mfrc522.PICC_HaltA(); // Halt PICC
-  mfrc522.PC
+  mfrc522.PCD_StopC
